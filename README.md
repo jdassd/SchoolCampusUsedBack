@@ -4,7 +4,9 @@
 ## 部署
 1. 项目由 Maven 构建，建议使用 IDEA 打开项目，如果和 [SchoolCampusUsed Vue+SSM的校园二手交易平台](https://github.com/jdassd/SchoolCampusUsed) 这个项目一起部署调试，建议使用 8081 端口运行这个后台项目。
 2. 项目目录下有一个 plugins.zip 文件需要解压到 src/main/webapp 目录下
-3. 接着使用 Tomcat 打开项目就可以查看到效果
+3. 将 sql.sql 导入到你的数据库
+4. 修改 src/main/resources/mybatis-config.xml 文件里的数据库配置，将用户名和密码修改为你的用户名和密码**如果你使用的不是 Mysql 数据库，请自行修改该文件里的数据库配置，和 pom.xml 中引入的依赖**
+5. 接着使用 Tomcat 打开项目就可以查看到效果
 
 ## FAQ
 #### 为什么这个项目跑起来报错？
