@@ -28,15 +28,11 @@
 2. 登录页面出现提示文字后，无法在进行登录，后台也不报错？**这个问题出现率很低，因为我测试的时候没有出现过，所以我不确定这个问题的原因。**
 3. 其他一些 BUG ，但基本不影响使用，这个后台本身，也没有什么价值。
 
-## 联系
-<div  align="center">    
+## 联系 
 <img src="https://github.com/jdassd/imgRepository/blob/master/%E6%B7%BB%E5%8A%A0%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E7%A0%81.jpg" width="200" hegiht="200" alt="微信添加好友码" /><img src="https://github.com/jdassd/imgRepository/blob/master/%E6%B7%BB%E5%8A%A0QQ%E5%A5%BD%E5%8F%8B%E7%A0%81.jpg" width="200" hegiht="200" alt="QQ添加好友码" />
-</div>
 
 
 
 ## 请作者喝咖啡
-<div  align="center">    
-<img src="https://github.com/jdassd/imgRepository/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width="200" hegiht="200" alt="支付宝收款码" /><img src="https://github.com/jdassd/imgRepository/blob/master/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width="200" hegiht="200" align=center alt="微信收款码" />
-</div>
+<img src="https://github.com/jdassd/imgRepository/blob/master/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width="200" hegiht="200" align=center alt="微信收款码"/>
 
