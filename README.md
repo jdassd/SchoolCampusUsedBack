@@ -29,10 +29,9 @@
 3. 其他一些 BUG ，但基本不影响使用，这个后台本身，也没有什么价值。
 
 ## 联系
-![微信添加好友码](https://github.com/jdassd/imgRepository/blob/master/%E6%B7%BB%E5%8A%A0%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E7%A0%81.jpg)
-![QQ添加好友码](https://github.com/jdassd/imgRepository/blob/master/%E6%B7%BB%E5%8A%A0QQ%E5%A5%BD%E5%8F%8B%E7%A0%81.jpg)
-
+<img src="https://github.com/jdassd/imgRepository/blob/master/%E6%B7%BB%E5%8A%A0%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E7%A0%81.jpg" width="300" hegiht="300" align=center alt="微信添加好友码" />
+<img src="https://github.com/jdassd/imgRepository/blob/master/%E6%B7%BB%E5%8A%A0QQ%E5%A5%BD%E5%8F%8B%E7%A0%81.jpg" width="300" hegiht="300" align=center alt="QQ添加好友码" />
 
 ## 请作者喝咖啡
-![支付宝收款码](https://github.com/jdassd/imgRepository/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
-![微信收款码](https://github.com/jdassd/imgRepository/blob/master/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
+<img src="https://github.com/jdassd/imgRepository/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width="300" hegiht="300" align=center alt="支付宝收款码" />
+<img src="https://github.com/jdassd/imgRepository/blob/master/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width="300" hegiht="300" align=center alt="微信收款码" />
