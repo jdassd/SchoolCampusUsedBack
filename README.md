@@ -1,9 +1,16 @@
 # JSP校园二手交易系统后台，使用AdminLTE模板
+## 技术点
+#### JSP + Servlet + Mybatis + Mysql
 ## 展示
+#### 登录界面
 ![登录界面](https://github.com/jdassd/imgRepository/blob/master/TIM%E6%88%AA%E5%9B%BE20191220192109.png)
+#### 注册界面
 ![注册界面](https://github.com/jdassd/imgRepository/blob/master/TIM%E6%88%AA%E5%9B%BE20191220192137.png)
+#### 首页
 ![首页](https://github.com/jdassd/imgRepository/blob/master/TIM%E6%88%AA%E5%9B%BE20191220192240.png)
+#### 商品管理界面
 ![商品管理界面](https://github.com/jdassd/imgRepository/blob/master/TIM%E6%88%AA%E5%9B%BE20191220192329.png)
+#### 编辑商品界面
 ![编辑商品界面](https://github.com/jdassd/imgRepository/blob/master/TIM%E6%88%AA%E5%9B%BE20191220192421.png)
 ## 部署
 1. 项目由 Maven 构建，建议使用 IDEA 打开项目，如果和 [SchoolCampusUsed Vue+SSM的校园二手交易平台](https://github.com/jdassd/SchoolCampusUsed) 这个项目一起部署调试，建议使用 8081 端口运行这个后台项目。
