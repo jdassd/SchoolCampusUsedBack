@@ -2,4 +2,4 @@
 ## 展示
 
 ## 部署
-1. 项目由 Maven 构建，建议使用 IDEA 打开项目，
+1. 项目由 Maven 构建，建议使用 IDEA 打开项目，如果和 [](https://github.com/jdassd/SchoolCampusUsed)
