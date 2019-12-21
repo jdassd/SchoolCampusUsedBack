@@ -1,4 +1,5 @@
 # JSP校园二手交易系统后台，使用AdminLTE模板
+## 既然已经点进来了，不如随手点个 Star 谢谢！
 ## 技术点
 #### JSP + Servlet + Mybatis + Mysql
 ## 展示
